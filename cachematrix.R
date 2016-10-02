@@ -6,7 +6,7 @@
  # the mean function is replaced with the solve function
 
 ## The function makeCacheMatrix inverses the input matrix
- # It uses the solve function to perform the inverse
+ # It uses the solve function to perform the inverse 
 makeCacheMatrix <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
