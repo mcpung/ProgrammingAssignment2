@@ -1,3 +1,10 @@
+#### Updated for my assignment. 
+The text below is the text from the original README.md file from the forked repo. 
+It is not intended to be commentary for the submitted assignment chachMatrix.R
+Please see the in program comments for details of its functionality
+   
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
